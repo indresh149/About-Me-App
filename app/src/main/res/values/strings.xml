@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">name</string>
+    <string name="indresh">Indresh</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">“Hey, I’m Mateo
+        \n but people here call me Matt. I grew up in Argentina,
+        \nand lived there most of my life before moving to the United States.
+        \nI speak Italian, Spanish and English. I love gaming, and
+        \nI stream on Twitch almost every day. I’ve always wanted
+        \n to improve my English so now that I have the time, I’ve
+        \nfinally signed up for classes online.
+        \nBecome a success story instead of just reading
+        \nabout them. Prepare for coding interviews at Amazon and other top
+        \nproduct-based companies with our Amazon Test Series. Includes
+        \ntopic-wise practice questions on all important DSA topics along
+        \nwith 10 practice contests of 2 hours each. Designed by industry
+        \nexperts that will surely help you practice and sharpen your
+        \nprogramming skills. Wait no more, start your preparation today!”</string>
+    <string name="what_is_your_nickname">what_is_your_nickname</string>
+    <string name="done">Done</string>
+</resources>
